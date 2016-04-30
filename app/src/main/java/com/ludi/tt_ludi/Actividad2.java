@@ -93,9 +93,6 @@ public class Actividad2 extends AppCompatActivity implements View.OnClickListene
         fila3.addView(btnSiguiente);
         fila3.addView(btnReinicio);
 
-
-
-
         final int tam =  4;
         cartas = crearCeldas(tam*tam);
         Collections.shuffle(Arrays.asList(cartas));
@@ -105,7 +102,6 @@ public class Actividad2 extends AppCompatActivity implements View.OnClickListene
                 fila.addView(cartas[(y * tam) + x].boton);
                 fila.setBackgroundColor(Color.parseColor("#F44336"));
             }
-
             tabla.addView(fila);
         }
 
@@ -150,7 +146,6 @@ public class Actividad2 extends AppCompatActivity implements View.OnClickListene
             if(!caraVisible&&touchActivo){
                 onCartaDescubierta(this);
             }
-
         }
 
     }

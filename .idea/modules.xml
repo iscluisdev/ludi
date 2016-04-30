@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/androidLudi.iml" filepath="$PROJECT_DIR$/androidLudi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ludi2parte.iml" filepath="$PROJECT_DIR$/ludi2parte.iml" />
       <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
       <module fileurl="file://$PROJECT_DIR$/volleyB /volleyB .iml" filepath="$PROJECT_DIR$/volleyB /volleyB .iml" />
     </modules>
